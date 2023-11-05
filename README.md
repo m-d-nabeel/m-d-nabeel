@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **m-d-nabeel/m-d-nabeel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,34 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi, I'm Md Nabeel Ashar 👋
+
+👨‍🎓 Computer Engineering Student at Jamia Millia Islamia (2021 - Present)
+
+🚀 Passionate about building awesome web applications and solving real-world problems
+
+## 📚 Relevant Coursework
+- Data Structures and Algorithms
+- Object-Oriented Programming
+- Database Management
+- System Programming
+- Computer Architecture
+- Socket Programming
+
+## 💻 Technical Skills
+- Languages: C++, JavaScript, TypeScript
+- Frontend: React.js, Next.js, HTML/CSS, TailwindCSS
+- Backend: NodeJS, Express
+- Databases: MongoDB, MySQL, Prisma, Mongoose
+- Tools: Visual Studio Code, IntelliJ IDEA, Git, Postman, Linux
+
+## 🏆 Honors & Awards
+- LinkedIn Skill Assessment Badges in Front End Development and React.JS
+
+Let's connect and build amazing things together! 🚀
+
+📫 Reach me at [Email](asharnabeel137@gmail.com)
+
+🌐 Check out my [LinkedIn Profile](https://www.linkedin.com/in/m-d-nabeel)
+
+🔗 Explore more on my [GitHub](https://github.com/m-d-nabeel)
