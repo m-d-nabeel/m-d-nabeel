@@ -38,8 +38,6 @@ Here are some ideas to get you started:
 
 Let's connect and build amazing things together! 🚀
 
-📫 Reach me at **asharnabeel137@gmail.com**
-
 🌐 Check out my [LinkedIn Profile](https://www.linkedin.com/in/m-d-nabeel)
 
 🔗 Explore more on my [GitHub](https://github.com/m-d-nabeel)
