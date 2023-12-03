@@ -8,8 +8,7 @@
 - Languages: C++, JavaScript, TypeScript
 - Frontend: React.js, Next.js, HTML/CSS, TailwindCSS
 - Backend: NodeJS, Express
-- Databases: MongoDB, MySQL, Prisma, Mongoose
-- Tools: VS Code, Git, Postman, Linux
+- Databases: MongoDB, MySQL
 
 🌐 [LinkedIn](https://www.linkedin.com/in/m-d-nabeel)
 
