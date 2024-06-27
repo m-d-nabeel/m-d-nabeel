@@ -11,5 +11,3 @@
 - Databases: MongoDB, MySQL, Redis
 
 🌐 [LinkedIn](https://www.linkedin.com/in/m-d-nabeel)
-
-🔗 [GitHub](https://github.com/m-d-nabeel)
