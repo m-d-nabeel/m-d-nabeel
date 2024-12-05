@@ -41,7 +41,7 @@ I'm a **Computer Engineering Student** with a strong passion for **web developme
   <a href="https://github.com/m-d-nabeel" target="_blank">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:youremail@example.com" target="_blank">
+  <a href="mailto:asharnabeel137@gmail.com" target="_blank">
     <img alt="Email" src="https://img.shields.io/badge/Email-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
