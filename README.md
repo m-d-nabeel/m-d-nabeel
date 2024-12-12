@@ -19,19 +19,6 @@
 <!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=m-d-nabeel&theme=tokyonight" alt="Contribution Streak" height="200px">
 </div> -->
 
-
----
-
-## 🚀 About Me
-
-I'm a **Computer Engineering Student** with a strong passion for **web development**, **problem-solving**, and **technology innovation**. My technical skills include:
-
-- **Programming Languages**: Go, TypeScript, JavaScript, Python, and more.  
-- **Databases**: PostgreSQL, MongoDB.  
-- **Tools**: Docker, Redis, Git, and Linux.
-
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
