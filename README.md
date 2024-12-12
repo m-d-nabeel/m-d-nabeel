@@ -21,8 +21,6 @@
 </div>
 
 
-<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=m-d-nabeel&theme=tokyonight" alt="Contribution Streak" height="200px"> -->
-
 ## 🌐 Connect With Me
 
 <div align="center">
