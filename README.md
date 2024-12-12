@@ -14,9 +14,13 @@
 
 ## 📊 GitHub Stats
 
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px; pointer-events: none;">
-  <img style="pointer-events: none;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-d-nabeel&layout=compact&hide=jupyter%20notebook&theme=tokyonight" alt="Top Languages" height="200px">
+<!-- 
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-d-nabeel&layout=compact&hide=jupyter%20notebook&theme=tokyonight" 
+       alt="Top Languages" height="200px">
 </div>
+-->
+
 
 <!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=m-d-nabeel&theme=tokyonight" alt="Contribution Streak" height="200px"> -->
 
