@@ -16,7 +16,7 @@
 
 
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-d-nabeel&layout=compact&hide=jupyter%20notebook&theme=tokyonight" 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-d-nabeel&layout=compact&hide=jupyter%20notebook,html&theme=tokyonight" 
        alt="Top Languages" height="200px">
 </div>
 
