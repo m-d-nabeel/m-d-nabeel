@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://github.com/m-d-nabeel.png" width="150" height="150" alt="Profile Picture">  
   <br />
-  # Hi, I'm Md Nabeel Ashar 👋
+  <h1>Hi, I'm Md Nabeel Ashar 👋</h1>
 </div>
 
 ## 📊 GitHub Stats
