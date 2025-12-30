@@ -1,8 +1,6 @@
 <div align="center">
-  <img src="https://github.com/m-d-nabeel.png" width="150" height="150" alt="Profile Picture">
-  
+  <img src="https://github.com/m-d-nabeel.png" width="150" height="150" alt="Profile Picture">  
   # Hi, I'm Md Nabeel Ashar 👋
-  ---
 </div>
 
 ## 📊 GitHub Stats
