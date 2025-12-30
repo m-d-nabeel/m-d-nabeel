@@ -2,13 +2,6 @@
   <img src="https://github.com/m-d-nabeel.png" width="150" height="150" alt="Profile Picture">
   
   # Hi, I'm Md Nabeel Ashar 👋
-  
-  ### 👨‍🎓 Computer Engineering Student | 🚀 Passionate About Development and Problem-Solving
-  
-  💻 **Full-stack developer** with experience in building modern web applications  
-  🧠 **Problem solver** and coding enthusiast with a focus on creating efficient solutions  
-  🌟 Striving to learn, build, and contribute to impactful projects!
-  
   ---
 </div>
 
