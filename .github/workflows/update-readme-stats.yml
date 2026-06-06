@@ -10,8 +10,12 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      # Use v4 (latest) and authenticate with your PAT so it has permission to push later
       - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GH_PAT }}
 
+      # Use v1 (latest) to generate the stats card
       - name: Generate Top Languages card
         uses: readme-tools/github-readme-stats-action@v1
         with:
@@ -22,6 +26,7 @@ jobs:
           path: profile/top-langs.svg
           token: ${{ secrets.GH_PAT }}
 
+      # Commit and push the generated SVG back to the repository
       - name: Commit generated cards
         run: |
           git config user.name "github-actions"
