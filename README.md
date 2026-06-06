@@ -6,12 +6,11 @@
 
 ## 📊 GitHub Stats
 
-
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-d-nabeel&layout=compact&hide=jupyter%20notebook,html&theme=tokyonight" 
+  <!-- Updated to point to the locally generated SVG from GitHub Actions -->
+  <img src="./profile/top-langs.svg" 
        alt="Top Languages" height="200px">
 </div>
-
 
 ## 🌐 Connect With Me
 
